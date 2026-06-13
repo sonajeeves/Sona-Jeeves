@@ -59,7 +59,7 @@ I'm a second-year **B.Tech Computer Science (Cyber Security)** student passionat
 | Field | Value |
 |-------|-------|
 | 📍 Location | Kerala, India |
-| 📞 Phone | +91 8136****38 |
+| 📞 Phone | +91 9495925126 |
 | 📧 Email | sonajeevees@gmail.com |
 | 💼 LinkedIn |  |[Sona Jeeves](https://www.linkedin.com/in/sona-jeeves-b35059378)|
 
